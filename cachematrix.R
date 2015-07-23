@@ -2,7 +2,7 @@
 ## and stores the inverse in cache. Everytime user passes a matrix the function checks if the inverse already exists in cache or not.
 ## If the inverse is found in cache the recalculation is not done and results are displayed from the Cache itself.
 
-## This function gets and sets variables for matrix and its inverse
+## This function gets and sets variables for matrix and its inverse..
 
 makeCacheMatrix <- function(x = matrix()) {
  	i <- NULL
