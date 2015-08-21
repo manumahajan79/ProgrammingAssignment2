@@ -1,4 +1,4 @@
-## The folliwing functions allow user to pass an invertible matrix as an argument into a funtion, calculate its inverse 
+## The following functions allow user to pass an invertible matrix as an argument into a funtion, calculate its inverse 
 ## and stores the inverse in cache. Everytime user passes a matrix the function checks if the inverse already exists in cache or not.
 ## If the inverse is found in cache the recalculation is not done and results are displayed from the Cache itself.
 
